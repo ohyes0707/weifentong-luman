@@ -1,0 +1,17 @@
+[2017/06/23 02:40:09]http_post data to get token:Array
+(
+    [component_appid] => wx9f2c5b6bbfb45238
+    [component_appsecret] => 521bd2f16a9293c1400919540cc3e682
+    [component_verify_ticket] => ticket@@@y2lVYbR-G9nYxRDSykeH9UKTq2hH1d9hELC7kE2YJ7ALnLSfdcqPN5vpFwNhu2TCuC233c2_cBfPVezYCzY_9g
+)
+
+[2017/06/23 02:40:09]refresh_authorizer_token:{"errcode":40013,"errmsg":"invalid appid hint: [LJo2va0010e578]"}
+[2017/06/23 02:40:51]refresh_authorizer_token:{"errcode":40013,"errmsg":"invalid appid hint: [QQYPCA0053e544]"}
+[2017/06/23 02:42:49]refresh_authorizer_token:{"errcode":40013,"errmsg":"invalid appid hint: [WLs.70171e544]"}
+[2017/06/23 02:42:58]refresh_authorizer_token:{"errcode":40013,"errmsg":"invalid appid hint: [64WRcA0179e514]"}
+[2017/06/23 02:43:23]refresh_authorizer_token:{"errcode":40013,"errmsg":"invalid appid hint: [s0204e544]"}
+[2017/06/23 02:43:36]refresh_authorizer_token:{"errcode":40013,"errmsg":"invalid appid hint: [Zfuiqa0217e514]"}
+[2017/06/23 03:11:45]refresh_authorizer_token:{"errcode":40013,"errmsg":"invalid appid hint: [SNEpMa0905e575]"}
+[2017/06/23 03:12:46]refresh_authorizer_token:{"errcode":40013,"errmsg":"invalid appid hint: [oMeCkA0966e578]"}
+[2017/06/23 03:28:31]refresh_authorizer_token:{"errcode":40013,"errmsg":"invalid appid hint: [XIRoVa0911e578]"}
+[2017/06/27 01:57:48]getPreauthCode -> token=ZM1PanQc5MH5Uga-5Jsvw79ReAqttujCv8nySjRysax9q4uaDO-GRX3ctngENFsIpriudwb4zP7BhQxDmBNmQMyyJI_wvHifotxwgD85yj707bt9BV6c6wDl0esczzwbACZeABAPRO
